@@ -2,7 +2,7 @@
 
 Predictive Real Estate Analysis
 
-![Illustrative Image](insert_image_url_here)
+![Illustrative Image](analytics-2158454_1280.png)
 
 ## Overview
 
