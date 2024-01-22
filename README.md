@@ -40,7 +40,7 @@ In addition to the neural network, a pre-trained regression model is utilized fo
 ## Getting Started
 
 1. Clone the repository.
-2. Set up UiPath environment for web scraping.
+2. Set up UiPath environment for web scraping or you can go directly to the jupyter file.
 3. Install required Python libraries using `pip install -r requirements.txt`.
 4. Open Jupyter Notebook for data exploration and model building.
 
